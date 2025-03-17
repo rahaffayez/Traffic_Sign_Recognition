@@ -23,7 +23,6 @@ Run the following command to install the required dependencies:
 ## Running the Application
 
 To run the Streamlit application, use the following command:
-
     ```bash
     streamlit run app.py
 
