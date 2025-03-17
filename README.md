@@ -16,15 +16,17 @@ This project is a Traffic Sign Classification system using a TensorFlow Lite mod
 ## Install Dependencies
 
 Run the following command to install the required dependencies:
+    ```bash
+    pip install -r requirements.txt
 
-```bash
-pip install -r requirements.txt
+ 
 ## Running the Application
 
 To run the Streamlit application, use the following command:
 
-```bash
-streamlit run app.py
+    ```bash
+    streamlit run app.py
+
 ## Model
 
 The model used is a TensorFlow Lite version of a CNN trained on the German Traffic Sign dataset.
