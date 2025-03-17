@@ -15,14 +15,14 @@ This project is a Traffic Sign Classification system using a TensorFlow Lite mod
    cd Traffic_Sign_Recognition
 ## Install Dependencies
 
-Run the following command to install the required dependencies:
+ 2. Run the following command to install the required dependencies:
     ```bash
     pip install -r requirements.txt
 
  
 ## Running the Application
 
-To run the Streamlit application, use the following command:
+ 3. To run the Streamlit application, use the following command:
     ```bash
     streamlit run app.py
 
